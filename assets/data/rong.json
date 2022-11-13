@@ -1,0 +1,32 @@
+[
+  {
+    "primary": "নীল",
+    "language": "bn",
+    "color" : "#0000FF",
+    "sound": "rong/2.mp3"
+  },
+  {
+    "primary": "বেগুনী",
+    "language": "bn",
+    "color" : "#800080",
+    "sound": "rong/5.mp3"
+  },
+  {
+    "primary": "লাল",
+    "language": "bn",
+    "color" : "#FF0000",
+    "sound": "rong/1.mp3"
+  },
+  {
+    "primary": "আকাশী",
+    "language": "bn",
+    "color" : "#87CEEB",
+    "sound": "rong/3.mp3"
+  },
+  {
+    "primary": "হলুদ",
+    "language": "bn",
+    "color" : "#FFFF00",
+    "sound": "rong/4.mp3"
+  }
+]

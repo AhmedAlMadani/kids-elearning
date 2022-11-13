@@ -1,0 +1,62 @@
+[
+    {
+        "primary": "Black",
+        "language": "en",
+        "color" : "#000000",
+        "sound": "colors/black.mp3"
+    },
+    {
+        "primary": "Blue",
+        "language": "en",
+        "color" : "#0000FF",
+        "sound": "colors/blue.mp3"
+    },
+    {
+        "primary": "Brown",
+        "language": "en",
+        "color" : "#A52A2A",
+        "sound": "colors/brown.mp3"
+    },
+    {
+        "primary": "Green",
+        "language": "en",
+        "color" : "#008000",
+        "sound": "colors/green.mp3"
+    },
+    {
+        "primary": "Orange",
+        "language": "en",
+        "color" : "#FFA500",
+        "sound": "colors/orange.mp3"
+    },
+    {
+        "primary": "Pink",
+        "language": "en",
+        "color" : "#FFC0CB",
+        "sound": "colors/pink.mp3"
+    },
+    {
+        "primary": "Purple",
+        "language": "en",
+        "color" : "#800080",
+        "sound": "colors/purple.mp3"
+    },
+    {
+        "primary": "Red",
+        "language": "en",
+        "color" : "#FF0000",
+        "sound": "colors/red.mp3"
+    },
+    {
+        "primary": "White",
+        "language": "en",
+        "color" : "#FFFFFF",
+        "sound": "colors/white.mp3"
+    },
+    {
+        "primary": "Yellow",
+        "language": "en",
+        "color" : "#FFFF00",
+        "sound": "colors/yellow.mp3"
+    }
+]

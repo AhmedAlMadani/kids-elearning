@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "primary": "\u09e7",
+        "language": "bn",
+        "image": null,
+        "sound": "sonkhya/1.mp3"
+    },
+    {
+        "id": 2,
+        "primary": "\u09e8",
+        "language": "bn",
+        "image": null,
+        "sound": "sonkhya/2.mp3"
+    },
+    {
+        "id": 3,
+        "primary": "\u09e9",
+        "language": "bn",
+        "image": null,
+        "sound": "sonkhya/3.mp3"
+    },
+    {
+        "id": 4,
+        "primary": "\u09ea",
+        "language": "bn",
+        "image": null,
+        "sound": "sonkhya/4.mp3"
+    },
+    {
+        "id": 5,
+        "primary": "\u09eb",
+        "language": "bn",
+        "image": null,
+        "sound": "sonkhya/5.mp3"
+    },
+    {
+        "id": 6,
+        "primary": "\u09ec",
+        "language": "bn",
+        "image": null,
+        "sound": "sonkhya/6.mp3"
+    },
+    {
+        "id": 7,
+        "primary": "\u09ed",
+        "language": "bn",
+        "image": null,
+        "sound": "sonkhya/7.mp3"
+    },
+    {
+        "id": 8,
+        "primary": "\u09ee",
+        "language": "bn",
+        "image": null,
+        "sound": "sonkhya/8.mp3"
+    },
+    {
+        "id": 9,
+        "primary": "\u09ef",
+        "language": "bn",
+        "image": null,
+        "sound": "sonkhya/9.mp3"
+    },
+    {
+        "id": 10,
+        "primary": "\u09e7\u09e6",
+        "language": "bn",
+        "image": null,
+        "sound": "sonkhya/10.mp3"
+    }
+]

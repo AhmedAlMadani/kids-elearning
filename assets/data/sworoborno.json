@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "primary": "\u0985",
+    "secondary": null,
+    "letter_image": "",
+    "line_height": 1,
+    "sentence": "অ তে অজগর",
+    "language": "bn",
+    "image": "sworoborno/1.svg",
+    "sound": "sworoborno/1.mp3"
+  },
+  {
+    "id": 2,
+    "primary": "\u0986",
+    "secondary": null,
+    "letter_image": "",
+    "line_height": 1,
+    "sentence": "আ তে আম",
+    "language": "bn",
+    "image": "sworoborno/2.svg",
+    "sound": "sworoborno/2.mp3"
+  },
+  {
+    "id": 3,
+    "primary": "\u0987",
+    "secondary": null,
+    "letter_image": "",
+    "line_height": 1.2,
+    "sentence": "ই তে ইঁদুর",
+    "language": "bn",
+    "image": "sworoborno/3.svg",
+    "sound": "sworoborno/3.mp3"
+  },
+  {
+    "id": 4,
+    "primary": "\u0988",
+    "secondary": null,
+    "letter_image": "",
+    "line_height": 1.2,
+    "sentence": "ঈ তে ঈগল",
+    "language": "bn",
+    "image": "sworoborno/4.svg",
+    "sound": "sworoborno/4.mp3"
+  },
+  {
+    "id": 5,
+    "primary": "\u0989",
+    "secondary": null,
+    "letter_image": "",
+    "line_height": 1.2,
+    "sentence": "উ তে উট",
+    "language": "bn",
+    "image": "sworoborno/5.svg",
+    "sound": "sworoborno/5.mp3"
+  },
+  {
+    "id": 6,
+    "primary": "\u098a",
+    "secondary": null,
+    "letter_image": "",
+    "line_height": 1.2,
+    "sentence": "ঊ তে ঊষা",
+    "language": "bn",
+    "image": "sworoborno/6.svg",
+    "sound": "sworoborno/6.mp3"
+  },
+  {
+    "id": 7,
+    "primary": "\u098b",
+    "secondary": null,
+    "letter_image": "",
+    "line_height": 1,
+    "sentence": "ঋ তে ঋষি",
+    "language": "bn",
+    "image": "sworoborno/7.svg",
+    "sound": "sworoborno/7.mp3"
+  },
+  {
+    "id": 8,
+    "primary": "\u098f",
+    "secondary": null,
+    "letter_image": "",
+    "line_height": 1,
+    "sentence": "এ তে একতারা",
+    "language": "bn",
+    "image": "sworoborno/8.svg",
+    "sound": "sworoborno/8.mp3"
+  },
+  {
+    "id": 9,
+    "primary": "\u0990",
+    "secondary": null,
+    "letter_image": "",
+    "line_height": 1,
+    "sentence": "ঐ তে ঐরাবত",
+    "language": "bn",
+    "image": "sworoborno/9.svg",
+    "sound": "sworoborno/9.mp3"
+  },
+  {
+    "id": 10,
+    "primary": "\u0993",
+    "secondary": null,
+    "letter_image": "",
+    "line_height": 1,
+    "sentence": "ও তে ওলকচু",
+    "language": "bn",
+    "image": "sworoborno/10.svg",
+    "sound": "sworoborno/10.mp3"
+  },
+  {
+    "id": 11,
+    "primary": "\u0994",
+    "secondary": null,
+    "letter_image": "",
+    "line_height": 1,
+    "sentence": "ঔ তে ঔষধ",
+    "language": "bn",
+    "image": "sworoborno/11.svg",
+    "sound": "sworoborno/11.mp3"
+  }
+]
